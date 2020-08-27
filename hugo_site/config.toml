@@ -1,0 +1,5 @@
+baseURL = "https://boyan-soubachov.github.io/"
+languageCode = "en-us"
+title = "Personal site of Boyan Soubachov"
+theme = "smol"
+publishdir = "../"

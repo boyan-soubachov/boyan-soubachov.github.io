@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal site of Boyan Soubachov</title>
+    <link>https://boyan-soubachov.github.io/</link>
+    <description>Recent content on Personal site of Boyan Soubachov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Aug 2020 22:11:37 +1000</lastBuildDate>
+    
+	<atom:link href="https://boyan-soubachov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://boyan-soubachov.github.io/posts/intro/</link>
+      <pubDate>Thu, 27 Aug 2020 22:11:37 +1000</pubDate>
+      
+      <guid>https://boyan-soubachov.github.io/posts/intro/</guid>
+      <description>Hello 👋 and welcome to my site 🙂.
+This is a place I use for sharing ideas and experiences that I found interesting in my journey as a software engineer.
+I am an avid Gopher and currently focus on the developer infrastructure platform at Atlassian (in Sydney).
+Some basic information and details about me:
+ LinkedIn GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>
